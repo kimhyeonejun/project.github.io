@@ -1,2 +1,2 @@
 # Alarming Device for Visually Impaired People Using Arduino
-이번 프로젝트에서 사용한 아두이노 코드입니다.
+시각 장애인들을 위한 경보기를 직접 설계 및 제작하고 실험하였습니다.
